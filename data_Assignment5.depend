@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1543786154 source:c:\users\haris waheed\desktop\moaz\data_assignment5\main.cpp
+	<iostream>
+	<list>
+	<stdlib.h>
+	<fstream>
+
+1543790938 source:c:\users\haris waheed\desktop\moaz\l174164\main.cpp
+	<iostream>
+	<list>
+	<stdlib.h>
+	<fstream>
+
