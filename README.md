@@ -4,4 +4,4 @@ like Linked List, Hash Table , Priority Queues and Stack.
 
 This is a File Management system which locks and unlocks different files . Files can be read by more the one user at a time 
 but it cant be written by more than 1 user at a time. Thus the program locks that file until a user has finished writing on that file.
-These tasked are performed through the use of different data structures .
+These tasks are performed through the use of different data structures .
